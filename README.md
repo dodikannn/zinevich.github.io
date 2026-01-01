@@ -10,8 +10,8 @@
 
 ## Мои связи и соцсети:
 - Email: andrey.zinevich.07@bk.ru
-VK: https://vk.com/andreika_z
-Telegram: @dodikannn
+- VK: https://vk.com/andreika_z
+- Telegram: @dodikannn
 
 Профиль создан с помощью Markdown
 
